@@ -1,5 +1,7 @@
 # LiDAR Reveals Complex Trade-Offs Between Coppicing, Forest Structure, and Biodiversity in UK Woodland Restoration
 
+NOTE: This information will be published on the submission of the associated PhD thesis in March 2026 
+
 This repository contains the workflows for data processing, analysis, and figure-generation supporting the study:
 
 **Beese, L. V. J. & Jucker, T. (2026).**  
