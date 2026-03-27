@@ -43,31 +43,35 @@ By integrating remote sensing and ecological field data, this work provides a fr
 
 The analytical pipeline follows a structured, hypothesis-driven framework:
 
-01 Data processing  
-        ↓  
-02 Extraction of metrics  
-        ↓  
-03 Dormice data processing  
-        ↓  
-04 ET data processing  
-        ↓  
-05 Data Cleaning  
-        ↓  
-06 Canopy gap extraction  
-        ↓  
-07 Biodiversity measures  
-        ↓  
-08 Preliminary statistics  
-        ↓  
-09 Hypothesis testing Q2/3/4  
-        ↓  
-10 Hypothesis testing Q3  
-        ↓  
-11 Hypothesis testing Q1  
-        ↓  
-12 Supplementary statistics  
-        ↓  
-13 Figures  
+# Analysis workflow
+
+The analytical pipeline follows a structured, hypothesis-driven framework:
+
+    01 Data processing
+            ↓
+    02 Extraction of metrics
+            ↓
+    03 Dormice data processing
+            ↓
+    04 ET data processing
+            ↓
+    05 Data Cleaning
+            ↓
+    06 Canopy gap extraction
+            ↓
+    07 Biodiversity measures
+            ↓
+    08 Preliminary statistics
+            ↓
+    09 Hypothesis testing Q2/3/4
+            ↓
+    10 Hypothesis testing Q3
+            ↓
+    11 Hypothesis testing Q1
+            ↓
+    12 Supplementary statistics
+            ↓
+    13 Figures  
 
 This workflow enables reproducible quantification of **how forest management propagates through structural changes to influence biodiversity and species-specific habitat use**.
 
