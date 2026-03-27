@@ -36,6 +36,7 @@ By integrating remote sensing and ecological field data, this work provides a fr
 ├── manuscript/        # Manuscript files (drafts / submitted versions)  
 ├── supp_info/         # Supplementary information  
 ├── README.md
+
 ---
 
 # Analysis workflow
