@@ -1,6 +1,6 @@
 # LiDAR Reveals Complex Trade-Offs Between Coppicing, Forest Structure, and Biodiversity in UK Woodland Restoration
 
-**NOTE:** The associated PhD thesis chapter and manuscript will be uploaded following submission of the thesis in **April 2026**.
+**NOTE:** The associated PhD thesis chapter, manuscript and supp info will be uploaded following submission of the thesis in **April 2026**.
 
 This repository contains the workflows for **data processing, analysis, and figure generation** supporting the study:
 
@@ -38,10 +38,6 @@ By integrating remote sensing and ecological field data, this work provides a fr
 ├── README.md
 
 ---
-
-# Analysis workflow
-
-The analytical pipeline follows a structured, hypothesis-driven framework:
 
 # Analysis workflow
 
@@ -121,7 +117,9 @@ Scripts are organised sequentially to reflect the analytical workflow.
 
 Processed datasets required to reproduce analyses are included where possible.
 
-However, larger datasets are not included due to file size constraints. These will be made available via an external repository (e.g. Zenodo) upon thesis submission.
+However, larger datasets are not included due to file size constraints. These will be made available via an external repository (Zenodo) upon thesis submission.
+
+Some of the data in this analysis is sensitive and cannot be published publicly. If required, please contact beeselucy@googlemail.com for further information .
 
 ---
 
